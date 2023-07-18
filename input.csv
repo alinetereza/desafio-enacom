@@ -1,0 +1,14 @@
+Opção,Descrição,Custo do Investimento (R$),Retorno Esperado (R$),Risco
+1,Ampliação da capacidade do armazém ZDP em 5%,470000,410000,1
+2,Ampliação da capacidade do armazém MGL em 7%,400000,330000,1
+3,Compra de empilhadeira,170000,140000,2
+4,Projeto de P&D I,270000,250000,2
+5,Projeto de P&D II,340000,320000,2
+6,Aquisição de novos equipamentos,230000,320000,1
+7,Capacitação de funcionário,50000,90000,2
+8,Ampliação da estrutura de carga rodoviária,440000,190000,3
+9,Construção de datacenter,320000,120000,3
+10,Aquisição de empresa concorrente,800000,450000,3
+11,Compra de serviços em nuvem,120000,80000,1
+12,Criação de aplicativo mobile e desktop,150000,120000,1
+13,Terceirar serviço de otimização da logística,300000,380000,2
